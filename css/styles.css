@@ -82,16 +82,20 @@ nav ul li a:hover {
 @media(max-width:1280px) {
     body{
         font-size: 14px;
+        /*background: red;*/
     }
     .navegadorHijo {
         margin-left: 4%;
         margin-right: 2%;
     }
 
-
 }
 
 @media(max-width:900px) {
+    body{
+        font-size: 14px;
+        /*background: blue;*/
+    }
     .header {
         height: auto;
         transition: 1.5s;
